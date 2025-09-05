@@ -82,7 +82,6 @@ module Top();
   //----------------------------------------------------------------------
 
   task test_case_2_exhaustive();
-    t.test_case_begin( "test_case_2_exhaustive" );
 
     //''' ACTIVITY '''''''''''''''''''''''''''''''''''''''''''''''''''''''
     // Add checks for exhaustive testing (check all possible inputs)
